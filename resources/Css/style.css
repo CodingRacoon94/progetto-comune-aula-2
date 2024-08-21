@@ -1,0 +1,14 @@
+:root{
+    --main:#CCD5AE;
+    --sec:#E9EDC9;
+    --panna:#FEFAE0;
+    --nocciola:#FAEDCD;
+    --acc:#D4A373;
+}
+/*Font*/
+@font-face {
+    font-family: font-titolo ;
+    src: url();
+}
+
+
